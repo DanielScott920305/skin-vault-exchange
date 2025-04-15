@@ -19,7 +19,7 @@ export const skins: Skin[] = [
     id: "cs2-1",
     name: "AWP | Dragon Lore",
     description: "As deadly as it is rare, the Dragon Lore is the crown jewel of any collection. Its golden dragon design harks back to legends of old.",
-    image: "https://source.unsplash.com/random/800x600?weapon,awp,dragon,gold",
+    image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=600&fit=crop&q=80",
     price: 1899.99,
     rarity: "ancient",
     wear: "Factory New",
@@ -30,7 +30,7 @@ export const skins: Skin[] = [
   {
     id: "cs2-2",
     name: "AK-47 | Asiimov",
-    image: "https://source.unsplash.com/random/800x600?weapon,ak47,futuristic",
+    image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop&q=80",
     price: 239.99,
     rarity: "legendary",
     wear: "Field-Tested",
@@ -41,7 +41,7 @@ export const skins: Skin[] = [
   {
     id: "cs2-3",
     name: "M4A4 | Howl",
-    image: "https://source.unsplash.com/random/800x600?weapon,m4,fire,wolf",
+    image: "https://images.unsplash.com/photo-1595323397979-7d5262caa898?w=800&h=600&fit=crop&q=80",
     price: 1299.99,
     rarity: "immortal",
     wear: "Minimal Wear",
@@ -51,7 +51,7 @@ export const skins: Skin[] = [
   {
     id: "cs2-4",
     name: "Butterfly Knife | Fade",
-    image: "https://source.unsplash.com/random/800x600?knife,colorful,blade",
+    image: "https://images.unsplash.com/photo-1579644761102-28339864a21d?w=800&h=600&fit=crop&q=80",
     price: 999.99,
     rarity: "immortal",
     wear: "Factory New",
@@ -61,7 +61,7 @@ export const skins: Skin[] = [
   {
     id: "cs2-5",
     name: "USP-S | Kill Confirmed",
-    image: "https://source.unsplash.com/random/800x600?weapon,pistol,tactical",
+    image: "https://images.unsplash.com/photo-1584281532659-a0c0c9e191b0?w=800&h=600&fit=crop&q=80",
     price: 179.99,
     rarity: "mythical",
     wear: "Well-Worn",
@@ -72,7 +72,7 @@ export const skins: Skin[] = [
   {
     id: "cs2-6",
     name: "Glock-18 | Fade",
-    image: "https://source.unsplash.com/random/800x600?weapon,pistol,gradient",
+    image: "https://images.unsplash.com/photo-1578269174936-2709b6aeb913?w=800&h=600&fit=crop&q=80",
     price: 439.99,
     rarity: "legendary",
     wear: "Factory New",
@@ -85,7 +85,7 @@ export const skins: Skin[] = [
     id: "dota2-1",
     name: "Arcana | Phantom Assassin",
     description: "The Manifold Paradox arcana transforms Phantom Assassin with ethereal blades and effects, marking each victory with a growing collection of souls.",
-    image: "https://source.unsplash.com/random/800x600?game,character,fantasy,sword",
+    image: "https://images.unsplash.com/photo-1500673922987-e212871fec22?w=800&h=600&fit=crop&q=80",
     price: 29.99,
     rarity: "immortal",
     game: "Dota 2",
@@ -95,7 +95,7 @@ export const skins: Skin[] = [
   {
     id: "dota2-2",
     name: "Immortal | Enigma",
-    image: "https://source.unsplash.com/random/800x600?game,character,mystical,dark",
+    image: "https://images.unsplash.com/photo-1470813740244-df37b8c1edcb?w=800&h=600&fit=crop&q=80",
     price: 4.99,
     rarity: "immortal",
     game: "Dota 2",
@@ -105,7 +105,7 @@ export const skins: Skin[] = [
   {
     id: "dota2-3",
     name: "Immortal | Juggernaut",
-    image: "https://source.unsplash.com/random/800x600?game,character,warrior,action",
+    image: "https://images.unsplash.com/photo-1605979257913-1704eb7b6246?w=800&h=600&fit=crop&q=80",
     price: 8.99,
     rarity: "immortal",
     game: "Dota 2",
@@ -114,7 +114,7 @@ export const skins: Skin[] = [
   {
     id: "dota2-4",
     name: "Arcana | Rubick",
-    image: "https://source.unsplash.com/random/800x600?game,magic,wizard,spell",
+    image: "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bfb?w=800&h=600&fit=crop&q=80",
     price: 34.99,
     rarity: "immortal",
     game: "Dota 2",
@@ -123,7 +123,7 @@ export const skins: Skin[] = [
   {
     id: "dota2-5",
     name: "Mythical | Anti-Mage",
-    image: "https://source.unsplash.com/random/800x600?game,character,blade,mystical",
+    image: "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?w=800&h=600&fit=crop&q=80",
     price: 2.49,
     rarity: "mythical",
     game: "Dota 2",
@@ -132,7 +132,7 @@ export const skins: Skin[] = [
   {
     id: "dota2-6",
     name: "Legendary | Pudge",
-    image: "https://source.unsplash.com/random/800x600?game,character,hook,brutal",
+    image: "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=600&fit=crop&q=80",
     price: 7.99,
     rarity: "legendary",
     game: "Dota 2",
@@ -145,7 +145,7 @@ export const skins: Skin[] = [
     id: "tf2-1",
     name: "Unusual | Team Captain",
     description: "One of the most prestigious hats in the game, adorned with a rare burning flames effect that symbolizes authority and power.",
-    image: "https://source.unsplash.com/random/800x600?game,hat,military,style",
+    image: "https://images.unsplash.com/photo-1520808663317-647b476a81b9?w=800&h=600&fit=crop&q=80",
     price: 499.99,
     rarity: "ancient",
     game: "Team Fortress 2",
@@ -155,7 +155,7 @@ export const skins: Skin[] = [
   {
     id: "tf2-2",
     name: "Australium | Rocket Launcher",
-    image: "https://source.unsplash.com/random/800x600?weapon,rocket,golden,metallic",
+    image: "https://images.unsplash.com/photo-1598368195835-44d25c980d3d?w=800&h=600&fit=crop&q=80",
     price: 79.99,
     rarity: "legendary",
     game: "Team Fortress 2",
@@ -164,7 +164,7 @@ export const skins: Skin[] = [
   {
     id: "tf2-3",
     name: "Strange | Scattergun",
-    image: "https://source.unsplash.com/random/800x600?weapon,gun,metallic,industrial",
+    image: "https://images.unsplash.com/photo-1595590424283-b8f526a10b1c?w=800&h=600&fit=crop&q=80",
     price: 14.99,
     rarity: "rare",
     game: "Team Fortress 2",
@@ -174,7 +174,7 @@ export const skins: Skin[] = [
   {
     id: "tf2-4",
     name: "Unusual | Burning Flames Killer Exclusive",
-    image: "https://source.unsplash.com/random/800x600?game,fire,dramatic,flames",
+    image: "https://images.unsplash.com/photo-1517232115160-ff93364542dd?w=800&h=600&fit=crop&q=80",
     price: 249.99,
     rarity: "ancient",
     game: "Team Fortress 2",
@@ -185,7 +185,7 @@ export const skins: Skin[] = [
   {
     id: "rust-1",
     name: "Tempered AK47",
-    image: "https://source.unsplash.com/random/800x600?weapon,rifle,rust,metallic",
+    image: "https://images.unsplash.com/photo-1613843539605-079d9a1a2f3e?w=800&h=600&fit=crop&q=80",
     price: 14.99,
     rarity: "legendary",
     game: "Rust",
@@ -194,7 +194,7 @@ export const skins: Skin[] = [
   {
     id: "rust-2",
     name: "Glory Door",
-    image: "https://source.unsplash.com/random/800x600?door,metal,rustic,industrial",
+    image: "https://images.unsplash.com/photo-1573036110381-d8b27398c405?w=800&h=600&fit=crop&q=80",
     price: 5.99,
     rarity: "rare",
     game: "Rust",
