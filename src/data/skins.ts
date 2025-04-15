@@ -1,4 +1,17 @@
-import { Skin } from './skins';
+
+export interface Skin {
+  id: string;
+  name: string;
+  description?: string;
+  image: string;
+  price: number;
+  rarity: 'common' | 'uncommon' | 'rare' | 'mythical' | 'legendary' | 'ancient' | 'immortal';
+  wear?: string;
+  game: string;
+  category?: string;
+  featured?: boolean;
+  discount?: number;
+}
 
 export const skins: Skin[] = [
   // CS2 SKINS
