@@ -61,6 +61,23 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Gaming marketplace theme colors
+				gaming: {
+					'dark': '#1A1F2C',
+					'darker': '#131722',
+					'purple': '#8B5CF6',
+					'purple-light': '#9b87f5',
+					'purple-dark': '#7E69AB',
+					'blue': '#0EA5E9',
+					'pink': '#D946EF',
+					'rarity-common': '#b0c3d9',
+					'rarity-uncommon': '#5e98d9',
+					'rarity-rare': '#4b69ff',
+					'rarity-mythical': '#8847ff',
+					'rarity-legendary': '#d32ce6',
+					'rarity-ancient': '#eb4b4b',
+					'rarity-immortal': '#e4ae39'
 				}
 			},
 			borderRadius: {
