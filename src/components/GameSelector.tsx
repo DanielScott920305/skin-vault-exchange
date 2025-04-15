@@ -14,6 +14,7 @@ const games: Game[] = [
   { id: 'dota2', name: 'Dota 2', icon: '🛡️' },
   { id: 'tf2', name: 'Team Fortress 2', icon: '🎯' },
   { id: 'rust', name: 'Rust', icon: '🏹' },
+  { id: 'gta', name: 'GTA', icon: '🏎️' },
   { id: 'pubg', name: 'PUBG', icon: '🪖' },
 ];
 

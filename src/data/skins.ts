@@ -1,4 +1,3 @@
-
 export interface Skin {
   id: string;
   name: string;
@@ -200,6 +199,71 @@ export const skins: Skin[] = [
     game: "Rust",
     category: "Building",
     discount: 0.1
+  },
+  
+  // GTA SKINS
+  {
+    id: "gta-1",
+    name: "Oppressor MK II",
+    description: "A futuristic hoverbike with powerful missiles, this flying vehicle is feared across Los Santos.",
+    image: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=800&h=600&fit=crop&q=80",
+    price: 3999.99,
+    rarity: "legendary",
+    game: "GTA",
+    category: "Vehicle",
+    featured: true
+  },
+  {
+    id: "gta-2",
+    name: "Railgun",
+    description: "A high-tech weapon that fires projectiles at extremely high velocity, capable of penetrating most armors.",
+    image: "https://images.unsplash.com/photo-1508178879505-140e559aad13?w=800&h=600&fit=crop&q=80",
+    price: 499.99,
+    rarity: "mythical",
+    game: "GTA",
+    category: "Weapon",
+    discount: 0.1
+  },
+  {
+    id: "gta-3",
+    name: "Kifflom Robes",
+    description: "Sacred garments from the Epsilon Program cult, providing spiritual enlightenment and social status.",
+    image: "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&h=600&fit=crop&q=80",
+    price: 249.99,
+    rarity: "rare",
+    game: "GTA",
+    category: "Clothing"
+  },
+  {
+    id: "gta-4",
+    name: "Buzzard Attack Helicopter",
+    description: "A light, agile attack helicopter equipped with machine guns and missiles for rapid response missions.",
+    image: "https://images.unsplash.com/photo-1471479917193-f00955256257?w=800&h=600&fit=crop&q=80",
+    price: 1899.99,
+    rarity: "immortal",
+    game: "GTA",
+    category: "Vehicle"
+  },
+  {
+    id: "gta-5",
+    name: "Advanced Rifle",
+    description: "A modern assault rifle with excellent accuracy and rate of fire, favored by professionals.",
+    image: "https://images.unsplash.com/photo-1595590424283-b8f17842773f?w=800&h=600&fit=crop&q=80",
+    price: 119.99,
+    rarity: "uncommon",
+    game: "GTA",
+    category: "Weapon",
+    discount: 0.15
+  },
+  {
+    id: "gta-6",
+    name: "Securoserv Special Outfit",
+    description: "Tactical outfit worn by Securoserv operatives, providing style and some protection.",
+    image: "https://images.unsplash.com/photo-1542327897-d73f4005b533?w=800&h=600&fit=crop&q=80",
+    price: 99.99,
+    rarity: "uncommon",
+    game: "GTA",
+    category: "Clothing"
   }
 ];
 
